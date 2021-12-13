@@ -1,0 +1,17 @@
+C:\Treinamento_csharp\BoasVindas\BoasVindas\bin\Debug\net6.0-windows\BoasVindas.exe
+C:\Treinamento_csharp\BoasVindas\BoasVindas\bin\Debug\net6.0-windows\BoasVindas.deps.json
+C:\Treinamento_csharp\BoasVindas\BoasVindas\bin\Debug\net6.0-windows\BoasVindas.runtimeconfig.json
+C:\Treinamento_csharp\BoasVindas\BoasVindas\bin\Debug\net6.0-windows\BoasVindas.dll
+C:\Treinamento_csharp\BoasVindas\BoasVindas\bin\Debug\net6.0-windows\ref\BoasVindas.dll
+C:\Treinamento_csharp\BoasVindas\BoasVindas\bin\Debug\net6.0-windows\BoasVindas.pdb
+C:\Treinamento_csharp\BoasVindas\BoasVindas\obj\Debug\net6.0-windows\BoasVindas.csproj.AssemblyReference.cache
+C:\Treinamento_csharp\BoasVindas\BoasVindas\obj\Debug\net6.0-windows\BoasVindas.frmAula01.resources
+C:\Treinamento_csharp\BoasVindas\BoasVindas\obj\Debug\net6.0-windows\BoasVindas.csproj.GenerateResource.cache
+C:\Treinamento_csharp\BoasVindas\BoasVindas\obj\Debug\net6.0-windows\BoasVindas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treinamento_csharp\BoasVindas\BoasVindas\obj\Debug\net6.0-windows\BoasVindas.AssemblyInfoInputs.cache
+C:\Treinamento_csharp\BoasVindas\BoasVindas\obj\Debug\net6.0-windows\BoasVindas.AssemblyInfo.cs
+C:\Treinamento_csharp\BoasVindas\BoasVindas\obj\Debug\net6.0-windows\BoasVindas.csproj.CoreCompileInputs.cache
+C:\Treinamento_csharp\BoasVindas\BoasVindas\obj\Debug\net6.0-windows\BoasVindas.dll
+C:\Treinamento_csharp\BoasVindas\BoasVindas\obj\Debug\net6.0-windows\ref\BoasVindas.dll
+C:\Treinamento_csharp\BoasVindas\BoasVindas\obj\Debug\net6.0-windows\BoasVindas.pdb
+C:\Treinamento_csharp\BoasVindas\BoasVindas\obj\Debug\net6.0-windows\BoasVindas.genruntimeconfig.cache
